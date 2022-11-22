@@ -16,7 +16,7 @@ export abstract class commonRouteConfig {
   abstract configureRoutes(): express.Application
 }
 
-/*
+/*/////CLASS INI ADALAH MERUPAKAN ASBtrACT KELAS YG DGIUNAKAN  UTK BUAT CLASS ROUTER ////
 kita pake abstract class instead interface 
 jadi nnti di app,ts route yg sudah dibuat pada saat listen 
 di list 

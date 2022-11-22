@@ -11,10 +11,12 @@
   "author": "Indra Suryawan",
   "license": "ISC",
   "dependencies": {
+    "@types/shortid": "^0.0.29",
     "cors": "^2.8.5",
     "debug": "^4.3.4",
     "express": "^4.18.2",
     "express-winston": "^4.2.0",
+    "shortid": "^2.2.16",
     "winston": "^3.8.2"
   },
   "devDependencies": {
